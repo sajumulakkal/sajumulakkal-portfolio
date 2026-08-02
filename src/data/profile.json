@@ -1,0 +1,288 @@
+{
+  "personalInfo": {
+    "name": "Saju Mulakkal Joseph",
+    "location": "Singapore",
+    "tagline": "Application & Cloud Support Manager | Solution Architect | Data & Web3 Lead",
+    "avatar": "/assets/img/profile-img.jpg",
+    "summary": "Technology Expert with 24+ years of experience specializing in Financial Systems, Application & Infrastructure Operations, Cloud Solutions (GCP/AWS/IBM), Data Science, and Web3/Blockchain engineering. Proven track record in continuous process improvement, operational transformation, incident & change management across global financial hubs.",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/sajumulakkal/",
+      "facebook": "https://www.facebook.com/saju.m.joseph",
+      "whatsapp": "https://wa.me/6598627561",
+      "email": "sajumulakkal@hotmail.com",
+      "portfolio": "https://sajumulakkal.netlify.app/",
+      "github": "https://github.com/sajumulakkal"
+    },
+    "contact": {
+      "phone": "+65 98627561",
+      "email": "sajumulakkal@hotmail.com",
+      "address": "BLK 18, #02-08, Singapore 529943"
+    },
+    "resumes": {
+      "onePageSlides": "https://docs.google.com/presentation/d/1E8Wc11QYn5LlLx8IqqLnoKEu5-KiBCGEPpeGTgGh3dE/view#slide=id.g130a4beb044_2_57",
+      "onePagePdf": "https://sajumulakkal.netlify.app/assets/pdf/SMJ_1page_CV.pdf",
+      "detailedPdf": "https://sajumulakkal.netlify.app/assets/pdf/SajuMulakkalJoseph.pdf"
+    }
+  },
+  "coreCompetencies": [
+    {
+      "name": "Application & Infrastructure Operations",
+      "desc": "Over two decades managing mission-critical investment banking and financial trading platforms."
+    },
+    {
+      "name": "Cloud Architecture & DevOps",
+      "desc": "Hands-on engineering across Google Cloud Platform (GCP), AWS, and IBM Cloud / Bluemix."
+    },
+    {
+      "name": "Data Engineering & Analytics",
+      "desc": "Proficient in complex relational SQL databases, NoSQL search engines, and ML pipelines."
+    },
+    {
+      "name": "Web3 & Smart Contract Engineering",
+      "desc": "Building decentralized applications using Solidity (Ethereum), EOSIO, Moralis, and Web3.js."
+    },
+    {
+      "name": "ITSM & Service Transformation",
+      "desc": "Certified ITIL practitioner skilled in Incident, Change, and Continual Service Improvement."
+    },
+    {
+      "name": "Full-Stack & 3D Web Development",
+      "desc": "Developing interactive platforms using React, Next.js, Three.js, Node.js, and Python/Flask."
+    }
+  ],
+  "technicalSkills": {
+    "sqlDatabases": [
+      { "name": "Oracle / Sybase / MySQL / SQL Server / Informix", "level": "90%" }
+    ],
+    "noSqlDatabases": [
+      { "name": "MarkLogic / Splunk / Firebase / Intersystems Cache / Endeca", "level": "75%" }
+    ],
+    "cloudPlatforms": [
+      { "name": "Google Cloud (GCP) / AWS / IBM Bluemix & Watson", "level": "90%" }
+    ],
+    "scriptingAndLanguages": [
+      { "name": "Python / JavaScript / React / Next.js / Perl / C++", "level": "75%" }
+    ],
+    "blockchainAndWeb3": [
+      { "name": "Ethereum Solidity / EOSIO / Moralis / MetaMask / Web3.js", "level": "75%" }
+    ],
+    "webPlatforms": [
+      { "name": "IIS / Apache (LAMP) / WebLogic / iPlanet / Akamai CDN", "level": "80%" }
+    ],
+    "testingAndDevOps": [
+      { "name": "Rational Robot / LoadRunner / JUnit / Selenium / Docker", "level": "65%" }
+    ]
+  },
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "Sikkim Manipal University of Health, Medical and Technological Sciences",
+      "period": "2003 - 2005"
+    },
+    {
+      "degree": "Post Graduate Diploma in Computer Applications (PGDCA)",
+      "institution": "IHRDE, Kerala",
+      "period": "1994 - 1995"
+    },
+    {
+      "degree": "Bachelor of Science in Physics",
+      "institution": "Calicut University",
+      "period": "1991 - 1994"
+    }
+  ],
+  "experience": [
+{
+    "role": "Associate Director",
+    "organization": "UBS",
+    "location": "Singapore",
+    "period": "Jun 2024 - Present",
+    "highlights": [
+      "Led Azure cloud migration workstreams for HOLT Lens platform with zero business disruption while authoring blockchain/tokenization strategy papers and NFT prototypes for Equity Research distribution.",
+      "Primary Owner for Automation Anywhere 360 bot (ROB-105345), delivering fully automated Start-of-Day (SOD) and Weekend Checkout processes for Research Authoring and Publishing workflows.",
+      "Engineered automated SMOKE test suites for data integrity validation and implemented predictive observability solutions for Azure data pipelines using Airflow, Application Gateway, and Hazelcast."
+    ]
+  },
+  {
+    "role": "Assistant Vice President",
+    "organization": "Credit Suisse",
+    "location": "Singapore",
+    "period": "Mar 2023 - May 2024",
+    "highlights": [
+      "Managed global production support for Client Channel Technologies (CCT) platforms, serving as Infrastructure & CI Deputy Owner to ensure high availability and stability across regions.",
+      "Acted as APAC Duty Manager for Major Incident Management, driving rapid triage and resolution of critical client-facing incidents under tight SLA constraints.",
+      "Enforced operational risk controls and regulatory readiness across MAS, HKMA, and FINRA frameworks for enterprise banking platforms."
+    ]
+  },
+    {
+      "role": "Application & Cloud Support Manager",
+      "organization": "Accenture",
+      "location": "Singapore",
+      "period": "2018 - 2023",
+      "highlights": [
+        "Directing cloud application operations and service transformation initiatives across modern enterprise infrastructure.",
+        "Managing large-scale incident handling, release deployments, and continuous process optimization."
+      ]
+    },
+    {
+      "role": "Senior Technical Lead for Application Support",
+      "organization": "Credit Suisse",
+      "location": "Singapore",
+      "period": "2006 - 2018",
+      "highlights": [
+        "Led L2/L3 global support operations for Equities Trading and Research Publication systems.",
+        "Engineered database optimizations and automated monitoring solutions to ensure 99.99% uptime for core financial services."
+      ]
+    },
+    {
+      "role": "QA Lead - 2",
+      "organization": "SumTotal Systems",
+      "location": "Hyderabad, India",
+      "period": "2005 - 2006",
+      "highlights": [
+        "Head of automated quality assurance workflows and performance testing suites."
+      ]
+    },
+    {
+      "role": "System Analyst",
+      "organization": "GE Information Technology Center - Fanuc",
+      "location": "Hyderabad, India",
+      "period": "2003 - 2005",
+      "highlights": [
+        "Analyzed business requirements and managed technical deployment strategies."
+      ]
+    },
+    {
+      "role": "SQA Team Lead",
+      "organization": "ADP India Pvt Ltd",
+      "location": "Hyderabad, India",
+      "period": "2002 - 2003",
+      "highlights": [
+        "Managed software quality engineering teams for global enterprise applications."
+      ]
+    },
+    {
+      "role": "Sr Software Engineer",
+      "organization": "Satyam Software Services",
+      "location": "Hyderabad, India",
+      "period": "1999 - 2002",
+      "highlights": [
+        "Developed custom client-server applications and complex database queries."
+      ]
+    },
+    {
+      "role": "System Analyst",
+      "organization": "Kale Consultants Pvt Ltd",
+      "location": "Pune, India",
+      "period": "1996 - 1999",
+      "highlights": [
+        "Delivered domain software solutions for airline and financial systems."
+      ]
+    },
+    {
+      "role": "Programmer",
+      "organization": "India Publications",
+      "location": "Mumbai, India",
+      "period": "1995 - 1996",
+      "highlights": [
+        "Software development and internal database administration."
+      ]
+    }
+  ],
+  "certifications": {
+    "professionalCertificates": [
+      { "title": "IBM AI Engineering", "url": "https://www.coursera.org/account/accomplishments/professional-cert/93KGK95GTN7G" },
+      { "title": "IBM Data Science", "url": "https://www.coursera.org/account/accomplishments/professional-cert/W3645GVM53EH" },
+      { "title": "IBM Cybersecurity Analyst", "url": "https://www.coursera.org/account/accomplishments/professional-cert/YGGKYXXSNN6S" },
+      { "title": "Cloud Architecture with Google Cloud", "url": "https://www.coursera.org/account/accomplishments/professional-cert/PHAFPPXW7WT9" },
+      { "title": "SRE and DevOps Engineer with Google Cloud", "url": "https://www.coursera.org/account/accomplishments/professional-cert/FBDYHYFDBZWL" },
+      { "title": "Cloud Engineering with Google Cloud", "url": "https://www.coursera.org/account/accomplishments/professional-cert/797D4KUGFFFL" },
+      { "title": "Data Engineering with Google Cloud", "url": "https://www.coursera.org/account/accomplishments/professional-cert/PHK5H6TGMK7R" },
+      { "title": "Google Data Analytics", "url": "https://www.coursera.org/account/accomplishments/professional-cert/HNQERPT64N4J" },
+      { "title": "AWS Certified Cloud Practitioner", "url": "https://www.credly.com/badges/974a4177-8f0d-4d3e-953d-4eb1c4c6017f" }
+    ],
+    "specializations": [
+      { "title": "Advanced Machine Learning with TensorFlow on GCP", "url": "https://www.coursera.org/account/accomplishments/specialization/2U49YBK29G9T" },
+      { "title": "Networking in Google Cloud", "url": "https://www.coursera.org/account/accomplishments/specialization/7AX6WUPWNFT3" },
+      { "title": "Machine Learning with TensorFlow on GCP", "url": "https://www.coursera.org/account/accomplishments/specialization/GPQR7PN92PCU" },
+      { "title": "Data Engineering, Big Data, and Machine Learning on GCP", "url": "https://www.coursera.org/account/accomplishments/specialization/ZLSPQUNSS3TB" },
+      { "title": "Developing Applications with Google Cloud Platform", "url": "https://www.coursera.org/account/accomplishments/specialization/EW6VNGMBVWHR" },
+      { "title": "Google UX Design Specialization", "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/JJGXZ6QCKVNL" },
+      { "title": "Decentralized Finance (DeFi) Specialization - Duke University", "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/MW3MRP8955RA" }
+    ],
+    "institutionalAndItil": [
+      { "title": "Web 3.0 Knowledge Certificate in Financial Services - NUS & AIDF", "url": "https://sff.apixoxygen.com/certificate/8f37338475ad43d98d5b8e65b394aabd" },
+      { "title": "ITIL Intermediate Certificate in IT Operational Support and Analysis", "url": "https://candidate.peoplecert.org" },
+      { "title": "ITIL Intermediate Certificate in IT Continual Service Improvement", "url": "https://candidate.peoplecert.org" },
+      { "title": "Blockchain Technologies - INSEAD", "url": "https://www.coursera.org/account/accomplishments/verify/WQWG65VZDRXU" },
+      { "title": "FinTech Foundations and Overview - HKUST", "url": "https://www.coursera.org/account/accomplishments/verify/N4B2HWSW58J8" },
+      { "title": "COVID-19 Contact Tracing - Johns Hopkins University", "url": "https://www.coursera.org/account/accomplishments/verify/UVPF2HEGKHFJ" }
+    ],
+    "externalBadgeProfiles": {
+      "credly": "https://www.credly.com/users/saju-mulakkal-joseph/badges",
+      "googleQwiklabs": "https://googlecourses.qwiklabs.com/public_profiles/eff1f53f-fca4-4952-aaf4-b6aab626c280",
+      "pluralsight": "https://app.pluralsight.com/profile/saju-joseph-33"
+    }
+  },
+  "learningWorks": [
+    {
+      "title": "React Burger Order Web App",
+      "url": "https://slabs-react-burger.netlify.app/",
+      "techStack": ["React", "Firebase"],
+      "description": "Interactive web app built using React & Firebase for dynamic menu ordering and real-time state management."
+    },
+    {
+      "title": "Kunjali Marakar EOSIO Blockchain DApp",
+      "url": "https://slabs-blockchain-kunjali-marakar.netlify.app/",
+      "techStack": ["EOSIO Testnet", "React", "Smart Contracts"],
+      "description": "Decentralized application integrated with EOSIO Testnet blockchain and smart contract actions."
+    },
+    {
+      "title": "sLabs Ecommerce Platform",
+      "url": "http://34.125.10.220:3000/profile",
+      "techStack": ["MongoDB", "ElasticSearch", "Stripe API"],
+      "description": "Full-stack e-commerce demo site featuring Elasticsearch queries and Stripe payment integration."
+    },
+    {
+      "title": "sLabs Coin Stake / Un-stake DApp",
+      "url": "https://slabs-coin-stake-unstake-in-dapp-tokenfarm.netlify.app/",
+      "techStack": ["Ethereum", "Solidity", "MetaMask"],
+      "description": "Decentralized yield farming and token staking platform powered by Solidity smart contracts."
+    },
+    {
+      "title": "Digital Currency Sentiment Voting DApp",
+      "url": "https://slabs-digital-currency-sentiment.netlify.app/",
+      "techStack": ["Ethereum", "Moralis", "Solidity", "MetaMask"],
+      "description": "Live sentiment tracking for crypto assets built on Ethereum with contract events stored via Moralis."
+    },
+    {
+      "title": "3D Interactive Apps",
+      "url": "https://sajumulakkal-3d-apps.netlify.app/",
+      "techStack": ["React", "Vite", "Three.js"],
+      "description": "Interactive 3D web visualizations engineered with React, Vite, and WebGL."
+    },
+    {
+      "title": "KarmaCoin App",
+      "url": "https://surprising-jaymee-karmacoin-84a6a8d6.koyeb.app/",
+      "techStack": ["Python", "Flask"],
+      "description": "Full-stack Python and Flask backend implementation for token rewards tracking."
+    },
+    {
+      "title": "Research-NFT Platform",
+      "url": "https://research-nft.netlify.app/",
+      "techStack": ["React", "Vite", "Web3"],
+      "description": "NFT minting and verification platform designed for scientific and academic research artifacts."
+    },
+    {
+      "title": "ML Regression Engine",
+      "url": "https://ml-regression-engine.netlify.app/",
+      "techStack": ["React", "Vite", "Python ML"],
+      "description": "End-to-end Machine Learning web application performing automated regression modeling on custom datasets."
+    },
+    {
+      "title": "SMJ Poker Game",
+      "url": "https://smj-poker.netlify.app/",
+      "techStack": ["React", "Next.js", "TailwindCSS", "Three.js", "WebGL", "Solidity", "Node.js", "PostgreSQL"],
+      "description": "Enterprise-grade 3D Web3 poker gaming platform built with real-time WebSockets, Soulbound Tokens (SBTs), and Modex BCDB middleware."
+    }
+  ]
+}
