@@ -24,6 +24,20 @@
       "detailedPdf": "https://sajumulakkal.netlify.app/assets/pdf/SajuMulakkalJoseph.pdf"
     }
   },
+  "whitePapers": [
+    {
+      "title": "The Algorithmic-DAO Corporation (ADC)",
+      "url": "https://docs.google.com/document/d/1HH1-JGgLqksagSuTAkJ2HC1fjYplS61_n2BSboIAUaA/edit?usp=sharing",
+      "techStack": ["DAO Architecture", "Smart Contracts", "Governance", "Tokenomics"],
+      "description": "Architectural paper examining autonomous corporate governance models using algorithmic DAOs, tokenized decision-making framework, and automated compliance execution."
+    },
+    {
+      "title": "R4K Identity Bridge White Paper",
+      "url": "https://r4k.sg/r4k-identity-bridge-whitepaper.pdf",
+      "techStack": ["Web3", "Identity Verification", "Privacy", "Blockchain"],
+      "description": "A comprehensive technical architecture white paper detailing identity bridge protocols, decentralized credentials, and secure cross-platform verification mechanics."
+    }
+  ],
   "coreCompetencies": [
     {
       "name": "Application & Infrastructure Operations",
@@ -91,28 +105,28 @@
     }
   ],
   "experience": [
-{
-    "role": "Associate Director",
-    "organization": "UBS",
-    "location": "Singapore",
-    "period": "Jun 2024 - Present",
-    "highlights": [
-      "Led Azure cloud migration workstreams for HOLT Lens platform with zero business disruption while authoring blockchain/tokenization strategy papers and NFT prototypes for Equity Research distribution.",
-      "Primary Owner for Automation Anywhere 360 bot (ROB-105345), delivering fully automated Start-of-Day (SOD) and Weekend Checkout processes for Research Authoring and Publishing workflows.",
-      "Engineered automated SMOKE test suites for data integrity validation and implemented predictive observability solutions for Azure data pipelines using Airflow, Application Gateway, and Hazelcast."
-    ]
-  },
-  {
-    "role": "Assistant Vice President",
-    "organization": "Credit Suisse",
-    "location": "Singapore",
-    "period": "Mar 2023 - May 2024",
-    "highlights": [
-      "Managed global production support for Client Channel Technologies (CCT) platforms, serving as Infrastructure & CI Deputy Owner to ensure high availability and stability across regions.",
-      "Acted as APAC Duty Manager for Major Incident Management, driving rapid triage and resolution of critical client-facing incidents under tight SLA constraints.",
-      "Enforced operational risk controls and regulatory readiness across MAS, HKMA, and FINRA frameworks for enterprise banking platforms."
-    ]
-  },
+    {
+      "role": "Associate Director",
+      "organization": "UBS",
+      "location": "Singapore",
+      "period": "Jun 2024 - Present",
+      "highlights": [
+        "Led Azure cloud migration workstreams for HOLT Lens platform with zero business disruption while authoring blockchain/tokenization strategy papers and NFT prototypes for Equity Research distribution.",
+        "Primary Owner for Automation Anywhere 360 bot (ROB-105345), delivering fully automated Start-of-Day (SOD) and Weekend Checkout processes for Research Authoring and Publishing workflows.",
+        "Engineered automated SMOKE test suites for data integrity validation and implemented predictive observability solutions for Azure data pipelines using Airflow, Application Gateway, and Hazelcast."
+      ]
+    },
+    {
+      "role": "Assistant Vice President",
+      "organization": "Credit Suisse",
+      "location": "Singapore",
+      "period": "Mar 2023 - May 2024",
+      "highlights": [
+        "Managed global production support for Client Channel Technologies (CCT) platforms, serving as Infrastructure & CI Deputy Owner to ensure high availability and stability across regions.",
+        "Acted as APAC Duty Manager for Major Incident Management, driving rapid triage and resolution of critical client-facing incidents under tight SLA constraints.",
+        "Enforced operational risk controls and regulatory readiness across MAS, HKMA, and FINRA frameworks for enterprise banking platforms."
+      ]
+    },
     {
       "role": "Application & Cloud Support Manager",
       "organization": "Accenture",
