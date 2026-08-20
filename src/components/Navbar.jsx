@@ -13,6 +13,7 @@ export default function Navbar({ name, socials, certifications }) {
   const navLinks = [
     { name: 'Home', href: '#home' },
     { name: 'About', href: '#about' },
+    { name: 'White Papers', href: '#whitepapers' },
     { name: 'Experience', href: '#experience' },
     { name: 'Skills', href: '#skills' },
     { name: 'Certifications', href: '#certifications' },
