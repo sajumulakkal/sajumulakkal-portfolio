@@ -4,8 +4,8 @@
     "location": "Singapore",
     "tagline": "Application & Cloud Support Manager | Solution Architect | Data & Web3 Lead",
     "avatar": "/assets/img/profile-img.jpg",
-    "summary": "Technology Expert with 24+ years of experience specializing in Financial Systems, Application & Infrastructure Operations, Cloud Solutions (GCP/AWS/IBM), Data Science, and Web3/Blockchain engineering. Proven track record in continuous process improvement, operational transformation, incident & change management across global financial hubs.",
-    "socials": {
+    "summary": "Technology Expert with 24+ years of experience specializing in Financial Systems, Application & Infrastructure Operations, Cloud Solutions (GCP/AWS/IBM), Data Science, and Web3/Blockchain engineering. Proven track record in continuous process improvement, operational transformation, incident & change management across global financial hubs.\n\nBeyond my enterprise leadership at UBS, I am deeply passionate about hands-on architecture, modern full-stack development, and exploring emerging technologies like secure digital identity systems and decentralized architectures.",
+     "socials": {
       "linkedin": "https://www.linkedin.com/in/sajumulakkal/",
       "facebook": "https://www.facebook.com/saju.m.joseph",
       "whatsapp": "https://wa.me/6598627561",
@@ -24,6 +24,14 @@
       "detailedPdf": "https://sajumulakkal.netlify.app/assets/pdf/SajuMulakkalJoseph.pdf"
     }
   },
+  "caseStudies": [
+    {
+      "title": "R4K Identity Bridge & Multi-Portal Ecosystem",
+      "url": "https://r4k.sg",
+      "techStack": ["Digital Identity", "Singpass Integration", "Cloud Architecture", "Multi-Tenant Gateway","Polygon","Mongo DB"],
+      "description": "Designed and deployed a secure digital identity and credential verification platform featuring segmented multi-portal architecture (Platform, Merchant, Catalyst, and CSR portals) built for seamless authentication and automated compliance workflows."
+    }
+  ],
   "whitePapers": [
     {
       "title": "The Algorithmic-DAO Corporation (ADC)",
