@@ -30,6 +30,12 @@
       "url": "https://r4k.sg",
       "techStack": ["Digital Identity", "Singpass Integration", "Cloud Architecture", "Multi-Tenant Gateway","Polygon","Mongo DB"],
       "description": "Designed and deployed a secure digital identity and credential verification platform featuring segmented multi-portal architecture (Platform, Merchant, Catalyst, and CSR portals) built for seamless authentication and automated compliance workflows."
+    },
+    {
+      "title": "Machine Learning Regression Engine",
+      "url": "https://ml-regression-engine.netlify.app/",
+      "techStack": ["Python", "scikit-learn", "Pandas", "React", "Vite", "Machine Learning"],
+      "description": "End-to-end machine learning web application performing automated regression modeling on environmental sensor data to predict power plant energy output with interactive frontend visualization."
     }
   ],
   "whitePapers": [
