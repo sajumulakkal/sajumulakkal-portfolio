@@ -413,16 +413,18 @@
       ],
       "description": "Ethereum-based application for digital-asset sentiment tracking, with smart-contract events and Moralis integration for blockchain data."
     },
-    {
-      "title": "3D Interactive Apps",
-      "url": "https://sajumulakkal-3d-apps.netlify.app/",
-      "techStack": [
-        "React",
-        "Vite",
-        "Three.js"
-      ],
-      "description": "Collection of interactive 3D web visualizations built with React, Vite, Three.js, and WebGL."
-    },
+{
+  "title": "3D Interactive Apps",
+  "url": "https://sajumulakkal-3d-apps.netlify.app/",
+  "techStack": [
+    "React",
+    "React Three Fiber",
+    "Three.js",
+    "WebGL",
+    "Vite"
+  ],
+  "description": "Interactive 3D web experience built with React, React Three Fiber, Three.js, and WebGL, featuring an immersive animated scene with a controllable aircraft, island, sky, and bird models. Demonstrates responsive 3D scaling and positioning across desktop and mobile screens, interactive scene rotation, dynamic lighting, asynchronous model loading, React state management, and integrated background audio controls."
+},
     {
       "title": "KarmaCoin App",
       "url": "https://surprising-jaymee-karmacoin-84a6a8d6.koyeb.app/",
